@@ -1,12 +1,14 @@
  %let timenow=%sysfunc(time(), time.);
  %put *********** Task starts at: &timenow  ************;
 
+/* See README for more info*/
 
 data params;
 retain distribution_type avg_occurence param_1 param_2 param_3;
-/*distribution_type is the type of a continuous distrition. */
+/*Distribution_type is the type of a continuous distrition. */
 /*avg_occurence is the mean of the discrete distrition. */
 /*params are the corresponding parameters in the CDF calculation in the functions. */
+/*These parameters are the so called scale and shape parameters to a continuous distribution */
 set params;run;
 
 data params;
