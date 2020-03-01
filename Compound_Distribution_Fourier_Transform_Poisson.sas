@@ -3,7 +3,7 @@
 
 
 data params;
-retain distribution_type avg_occurence param_1 param_2 param_3 param_4 param_5;
+retain distribution_type avg_occurence param_1 param_2 param_3;
 /*distribution_type is the type of a continuous distrition. */
 /*avg_occurence is the mean of the discrete distrition. */
 /*params are the corresponding parameters in the CDF calculation in the functions. */
