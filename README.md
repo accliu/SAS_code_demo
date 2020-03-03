@@ -13,6 +13,6 @@ The method is applicable to property and casualty insurance, pyschology studies,
 In these areas, researchers are interested in either mixed effect regressions or distributions without covariates.  
 
 ## References
-+ Stuart A. Klugman, Gordon E. Willmot, Harry Panjer. Loss Models: From Data to Decisions. 3rd ed, 1998. §9.3
-+ Michael Smithson and Yiyun Shou. Randomly stopped sums: models and psychological applications. Front. Psychol., 10 November 2014
-+ https://arxiv.org/pdf/1211.5802.pdf
++ *Stuart A. Klugman, Gordon E. Willmot, Harry Panjer. Loss Models: From Data to Decisions. 3rd ed, 1998. §9.3*
++ *Michael Smithson and Yiyun Shou. Randomly stopped sums: models and psychological applications. Front. Psychol., 10 November 2014*
++ *https://arxiv.org/pdf/1211.5802.pdf*
