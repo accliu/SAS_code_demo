@@ -1,6 +1,6 @@
 # Quantile extraction from compound distributions
 
-The program can be used to compute any quantiles from a compound distribution where there is no closed form formulae to describe the distribution, especially high quantiles which are often times of concern. 
+The program can be used to compute any quantiles (especially high quantiles which are often times of concern) from a compound distribution where there is no closed form formulae to describe the distribution. 
 
 A randomly stopped sums or a compound distribution is the distribution of the sum of independently distributed random variables, where the number of such variables is also random.
 As an example, in an auto insurance portfolio, the occurence of car accidents is random and can be described as a Poisson distribution. If a random number of accidents occur, the interest is in the sum of the losses of each individual accidents. 
